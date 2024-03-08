@@ -34,7 +34,7 @@
 
 <h2>🖼️ Project Screenshots</h2>
 
-<p>Feel free to check out the screenshot of my website for a sneak peek into its captivating user interface.</p>
+<p>Feel free to check out the screenshots of my website for a sneak peek into its captivating user interface.</p>
 
 <p align="center">
   <img alt="Tic-Tac-Toe" src="public/PM-Screenshot-1.png" width="100%" />
