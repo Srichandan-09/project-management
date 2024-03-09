@@ -4,7 +4,7 @@
  </p>
 
 <p align="left">
-  Project management app is a web application that helps you keep track of your projects and tasks. With this app, you can create projects, delete projects, add tasks to your projects, edit and delete the tasks.</p>
+  Project management app is a web application that helps you keep track of your projects and tasks. With this app, one can create projects, delete projects, add tasks to projects, edit and delete the tasks.</p>
 
 
 ## Features
